@@ -1,0 +1,9 @@
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.deps.json
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.runtimeconfig.json
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.runtimeconfig.dev.json
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.dll
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\bin\Debug\netcoreapp2.1\DataRepository.pdb
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfoInputs.cache
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.AssemblyInfo.cs
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.dll
+C:\Users\slcdvlpr\source\repos\WelcomeMessage\DataRepository\obj\Debug\netcoreapp2.1\DataRepository.pdb
